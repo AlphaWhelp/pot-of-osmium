@@ -3,3 +3,8 @@ how to use TestContext to view information about your tests,
 and how to test for various things.
 
 It is fairly simple and basic, but unit testing itself is really important and should be done by all programmers.
+
+Files of importance:
+\CSharpUnitTestExample\Trigonometry.cs - Contains custom code to be tested.
+\Tests\TestTrig.cs - Contains actual unit tests
+\CSharpUnitTestExample.sln - Solution file for Microsoft Visual Studio
