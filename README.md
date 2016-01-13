@@ -7,3 +7,5 @@ If a project is actually functional, and not merely a demonstration of a certain
 [CSharpUnitTestExample](https://github.com/AlphaWhelp/pot-of-osmium/tree/master/Projects/CSharpUnitTestExample) - Just a little project about unit testing.
 
 [QuickREST (native repository link)](https://github.com/AlphaWhelp/tired-of-arguing-with-wsdl) - A project showing off how to quickly integrate consumption of REST services.
+
+[QuickREST (Pot of Osmium link)](https://github.com/AlphaWhelp/pot-of-osmium/tree/master/Projects/QuickREST) - Additional link provided for convenience.
